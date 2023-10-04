@@ -1,0 +1,9 @@
+{
+	"commentStamp" : "",
+	"classinstvars" : [
+		"script"
+	],
+	"category" : "Seaside-PharoJS",
+	"instvars" : [ ],
+	"name" : "WATPharoJsComponent"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "PjAction",
+	"category" : "Seaside-PharoJS",
+	"classinstvars" : [ ],
+	"pools" : [
+		"PjBrowserGlobals"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"increaseUrl",
+		"initialCount"
+	],
+	"name" : "WACreateCounterAppAction",
+	"type" : "normal"
+}

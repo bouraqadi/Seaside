@@ -1,8 +1,8 @@
 baselines
 baseline: spec
+	"This groups all baseline"
 
 	<baseline>
-	"This groups all baseline"
 	self baselinecommon: spec.
 	self baselinegemstone: spec.
 	self baselinepharo: spec.
@@ -21,4 +21,5 @@ baseline: spec
 	self baselineob: spec.
 	self baselinegettext: spec.
 	self baselinewelcome: spec.
-	self baselinesecurity: spec
+	self baselinesecurity: spec.
+	self baselinePharoJS: spec

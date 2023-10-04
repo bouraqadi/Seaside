@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "WATPharoJsComponent classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WAPharoJsCounter",
+	"commentStamp" : "",
+	"super" : "WACounter",
+	"traitcomposition" : "WATPharoJsComponent",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Seaside-PharoJS"
+}

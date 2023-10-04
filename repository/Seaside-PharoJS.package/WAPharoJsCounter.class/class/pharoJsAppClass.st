@@ -1,0 +1,4 @@
+hooks
+pharoJsAppClass
+
+	^ WACounterApp 

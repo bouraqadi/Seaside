@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "PjTWebClientApp classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"increaseUrlString"
+	],
+	"name" : "WACounterApp",
+	"commentStamp" : "",
+	"super" : "PjCounterBrowserApp",
+	"traitcomposition" : "PjTWebClientApp",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Seaside-PharoJS"
+}
